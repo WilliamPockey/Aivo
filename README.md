@@ -16,7 +16,7 @@
 ## 📺 项目演示 (Main Demo)
 
 <div align="center">
-  <video src="ttps://raw.githubusercontent.com/WilliamPockey/Aivo/main/common interaction.mp4" width="800" controls title="Aivo 基础交互演示"></video>
+  <video src="https://raw.githubusercontent.com/WilliamPockey/Aivo/main/common interaction.mp4" width="800" controls title="Aivo 基础交互演示"></video>
   <p><i>基础对话与实时交互演示</i></p>
 </div>
 
