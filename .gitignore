@@ -1,0 +1,40 @@
+# Unity generated folders
+[Ll]ibrary/
+[Ll]ogs/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userosscache
+*.userprefs
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# OS files
+[Dd]esktop.ini
+[Dd]s_store
+[Tt]humbs.db
+*.swp
+*.swo
+
+# Unity cache
+Assets/AssetStoreTools*
+*.unitypackage
+
+# Runtime workspace
+workspace/
+
+# Misc
+*.orig
+export/
